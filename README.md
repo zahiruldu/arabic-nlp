@@ -1,5 +1,7 @@
-#Sentiment analysis
-This project is created for testing the sentiment analysis of a poetry.
+Sentiment analysis of Arabic
+============================
+
+This project is created for testing the sentiment analysis of an Arabic poetry.
 
 [Click Here](https://colab.research.google.com/drive/1dsRXLOzm4nKSECQTE7aKhFks34LA696A?usp=sharing) for the demo
 
